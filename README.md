@@ -8,6 +8,14 @@
 # Link to Tool
 - https://reurl.cc/gWD10Q 
 
+# Dependencies
+- Data sources and methods for calculating cumulative incidence and prevalence described in more detail here: https://github.com/Russell-Shean/Covid_SHINY_MAP
+- We'll keep adding to this list...
+
+# 與我們聯絡 Contact us
+- 有任何指正請與我們聯繫: 伍小姐 <jenny1004wu@ntu.edu.tw>
+- Feel free to contact us with any suggestions, thoughts or corrections : 伍小姐 <jenny1004wu@ntu.edu.tw>
+
 # 團隊成員 Team Members
 |Institute|Position|Name|
 |---------|--------|----|
@@ -25,13 +33,9 @@
 |London School of Hygiene & Tropical Medicine| 	Research fellow| 	Han Fu|
 |Global Health Program, NTU| 	Assistant Professor| 	Andrei Akhmetzhanov| 
 
-# Contact us
-- 有任何指正請與我們聯繫: 伍小姐 <jenny1004wu@ntu.edu.tw>
-- Feel free to contact us with any suggestions, thoughts or corrections : 伍小姐 <jenny1004wu@ntu.edu.tw>
 
-# Dependencies
-- Data sources and methods for calculating cumulative incidence and prevalence described in more detail here: https://github.com/Russell-Shean/Covid_SHINY_MAP
-- We'll keep adding to this list...
+
+
 
 
 
