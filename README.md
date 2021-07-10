@@ -17,7 +17,7 @@
 |Institute of Epidemiology and Preventive Medicine,NTU| 	PhD candidate| 	吳昀麇|
 |Institute of Epidemiology and Preventive Medicine,NTU| 	Professor| 	林先和| 
 
-# 特別感謝提供建議與原始程式碼 Thanks for Advice and Original Code!
+# 特別感謝提供建議與原始程式碼          Thanks for Advice and Original Code!
 |Institute|Position|Name|
 |---------|--------|----|
 |Global Health Program, NTU| 	Student| 	Russell Shean|
