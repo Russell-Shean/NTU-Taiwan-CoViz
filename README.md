@@ -15,7 +15,7 @@
 
 # 與我們聯絡 Contact us
 - 有任何指正請與我們聯繫: 伍小姐 <jenny1004wu@ntu.edu.tw>
-- Feel free to contact us with any suggestions, thoughts or corrections : 伍小姐 <jenny1004wu@ntu.edu.tw>
+- Feel free to contact us with any suggestions, thoughts or corrections :  <jenny1004wu@ntu.edu.tw>
 
 # 團隊成員 Team Members
 |Institute|Position|Name|
