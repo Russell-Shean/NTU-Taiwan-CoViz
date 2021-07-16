@@ -9,8 +9,7 @@
 - https://reurl.cc/gWD10Q 
 
 # Dependencies
-- Data sources and methods for calculating cumulative incidence and prevalence described in more detail here:      
-  https://github.com/Russell-Shean/Covid_SHINY_MAP
+- Data sources and methods for calculating cumulative incidence and prevalence described in more detail <a href="https://github.com/Russell-Shean/Covid_SHINY_MAP">here</a>.   
 - We'll keep adding to this list...
 
 # 與我們聯絡 Contact us
