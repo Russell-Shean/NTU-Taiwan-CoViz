@@ -6,7 +6,7 @@
 
 
 # Link to Tool
-- <a href="https://reurl.cc/gWD10Q">CoViz 台灣 COVID-19視覺化</a> 
+- <a href="https://reurl.cc/gWD10Q" target="_blank">CoViz 台灣 COVID-19視覺化</a> 
 
 # Dependencies
 - Data sources and methods for calculating cumulative incidence and prevalence described in more detail <a href="https://github.com/Russell-Shean/Covid_SHINY_MAP">here</a>.   
